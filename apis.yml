@@ -1,0 +1,32 @@
+aid: short-link
+name: Short Link
+description: "Short URLs support so many domains"
+url: https://github.com/FayasNoushad/Short-Link-API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Short Link
+    description: "Short URLs support so many domains"
+    humanURL: https://github.com/FayasNoushad/Short-Link-API
+    baseURL: https://github.com/FayasNoushad/Short-Link-API
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://github.com/FayasNoushad/Short-Link-API
+common:
+  - type: Website
+    url: https://github.com/FayasNoushad/Short-Link-API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
